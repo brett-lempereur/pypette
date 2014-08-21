@@ -8,7 +8,7 @@ import os
 import numpy
 
 # The location of the observation model cache.
-CACHE = r"C:\Users\Brett\Cache"
+CACHE = r"/var/lib/pypette/cache"
 
 # Create the module-wide logger instance.
 logger = logging.getLogger("pypette.collate.cache")
