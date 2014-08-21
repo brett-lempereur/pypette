@@ -18,6 +18,8 @@ setup(
         "pypette",
         "pypette.analyst",
         "pypette.analyst.volatile",
+        "pypette.collate",
+        "pypette.collate.model",
         "pypette.technique",
         "pypette.technique.behaviour"
     ],
