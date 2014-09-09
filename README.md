@@ -152,9 +152,9 @@ that is installed with the Pypette platform.
 
 ## Further Work
 
-[ ] Integrate the analysis toolchain into the platform distribution.
-[ ] Complete a general-purpose agent implementation in Golang.
-[ ] Write better documentation.
+- [ ] Integrate the analysis toolchain into the platform distribution.
+- [ ] Complete a general-purpose agent implementation in Golang.
+- [ ] Write better documentation.
 
 ## References
 
